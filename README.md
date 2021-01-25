@@ -3,7 +3,4 @@ This is a game I created similar to scrabble in which two players score points b
 
 Once the "???" has been entered the game will display the winner with their score points.
 
-![image](https://user-images.githubusercontent.com/65547230/105679359-fe849680-5ef6-11eb-9fae-1b5c8eed3538.png)
-![image](https://user-images.githubusercontent.com/65547230/105679553-4acfd680-5ef7-11eb-85a9-1a90d2dda53d.png)
-![image](https://user-images.githubusercontent.com/65547230/105679611-620ec400-5ef7-11eb-901f-eb839b19db9e.png)
-![image](https://user-images.githubusercontent.com/65547230/105679741-8d91ae80-5ef7-11eb-88bf-dd35b1ee17b2.png)
+
